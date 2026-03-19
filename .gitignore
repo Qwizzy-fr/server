@@ -1,4 +1,5 @@
 .env.prod
 .env.dev
 .env
+dist/
 node_modules/
